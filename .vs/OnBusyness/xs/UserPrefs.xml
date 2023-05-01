@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D083926E-2D59-4C09-886B-4ADB3DF88A31}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Behaviour/Error/errorHandling.cs">
+    <Files>
+      <File FileName="Controllers/masterController.cs" Line="2" Column="24" />
+      <File FileName="Behaviour/Error/errorHandling.cs" Line="37" Column="41" />
+      <File FileName="Startup.cs" Line="38" Column="80" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnBusyness" expanded="True">
+            <Node name="OnBusyness" expanded="True">
+              <Node name="Behaviour" expanded="True">
+                <Node name="Error" expanded="True">
+                  <Node name="errorHandling.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OnBusyness PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

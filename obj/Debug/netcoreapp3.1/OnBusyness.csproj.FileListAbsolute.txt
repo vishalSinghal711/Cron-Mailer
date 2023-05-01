@@ -1,0 +1,344 @@
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.deps.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.dev.json
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csprojAssemblyReference.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfoInputs.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfo.cs
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CoreCompileInputs.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.RazorTargetAssemblyInfo.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CopyComplete
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.Manifest.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.xml
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.genruntimeconfig.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cs
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.deps.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.dev.json
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.pdb
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Humanizer.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MailKit.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MimeKit.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/workspaces/OnBizWorkSpace/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csprojAssemblyReference.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfoInputs.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfo.cs
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CoreCompileInputs.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.RazorTargetAssemblyInfo.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CopyComplete
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.Manifest.cache
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.xml
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.dll
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.pdb
+/workspaces/OnBizWorkSpace/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.genruntimeconfig.cache
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.deps.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.dev.json
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.pdb
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Humanizer.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/MailKit.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/MimeKit.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/workspaces/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csprojAssemblyReference.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfoInputs.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfo.cs
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CoreCompileInputs.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.RazorTargetAssemblyInfo.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CopyComplete
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.Manifest.cache
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.xml
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.dll
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.pdb
+/workspaces/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.genruntimeconfig.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.deps.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.dev.json
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csprojAssemblyReference.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfoInputs.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfo.cs
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CoreCompileInputs.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cs
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.RazorTargetAssemblyInfo.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CopyComplete
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.Manifest.cache
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.xml
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/Crystal/Self Study/Projects/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.genruntimeconfig.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.deps.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.runtimeconfig.dev.json
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Quartz.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Quartz.Extensions.DependencyInjection.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Quartz.Extensions.Hosting.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Formats.Asn1.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Cng.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Security.Cryptography.Pkcs.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csprojAssemblyReference.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfoInputs.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.AssemblyInfo.cs
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CoreCompileInputs.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cs
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.MvcApplicationPartsAssemblyInfo.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.RazorTargetAssemblyInfo.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.csproj.CopyComplete
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.Manifest.cache
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/staticwebassets/OnBusyness.StaticWebAssets.xml
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.dll
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.pdb
+/Users/singhals/EBooks/BitByte/OnBusyness/obj/Debug/netcoreapp3.1/OnBusyness.genruntimeconfig.cache

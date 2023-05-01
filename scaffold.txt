@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=localhost;User=root;Password=Vishal@123;Database=bitbyte" "Pomelo.EntityFrameworkCore.MySql" -o Model --data-annotations -f
